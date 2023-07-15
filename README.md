@@ -7,7 +7,7 @@
 - [ ] RSocket With Spring  
 - [ ] Game - Guess A Number - Assignment  
 - [ ] RSocket - Connection Setup / Retry / Resumption  
-- [ ] Connection/LoadBlancing  
+- [ ] Connection/LoadBalancing  
 - [ ] RSocket Security  
 - [ ] Reactive MicroService With RSocket - Stock Service  
 - [ ] Reactive MicroService With RSocket - User Service  
