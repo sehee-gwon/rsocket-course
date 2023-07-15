@@ -2,9 +2,9 @@
 [Udemy Link](https://www.udemy.com/course/spring-rsocket/#reviews)
 
 - [ ] Introduction
-- [ ] Resourece  
+- [ ] Resource  
 - [ ] RSocket - Getting Started  
-- [ ] RSocekt With Spring  
+- [ ] RSocket With Spring  
 - [ ] Game - Guess A Number - Assignment  
 - [ ] RSocket - Connection Setup / Retry / Resumption  
 - [ ] Connection/LoadBlancing  
